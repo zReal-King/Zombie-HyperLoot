@@ -58,7 +58,7 @@ Settings:
 * Configs
 
 ## Preview:
-![image](https://github.com/user-attachments/assets/be491595-39c7-476f-8a22-703271459fa1)
+![image](https://github.com/user-attachments/assets/550b40e1-3d87-4a65-87da-6ab8c558f672)
 
 ### Contact us:
 
