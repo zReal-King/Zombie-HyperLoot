@@ -60,6 +60,11 @@ Settings:
 ## Preview:
 ![image](https://github.com/user-attachments/assets/550b40e1-3d87-4a65-87da-6ab8c558f672)
 
+## Script loadstring:
+```lua
+pcall(loadstring(game:HttpGet('https://raw.githubusercontent.com/zReal-King/Zombie-HyperLoot/refs/heads/main/Main.lua')))
+```
+
 ### Contact us:
 
 * Report Bugs here: https://discord.gg/f5PbMjMbaj
